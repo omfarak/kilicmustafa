@@ -107,10 +107,9 @@
 
 ## 📫 Contact
 
-- **Phone**: (+49) 1776067868
 - **Email**: [de.kilicmustafa@gmail.com](mailto:de.kilicmustafa@gmail.com)
 - **LinkedIn**: [kilic-mustafa-tr](https://www.linkedin.com/in/kilic-mustafa-tr/)
-- **Location**: 45127 Essen, Germany
+- **Location**: Germany
 
 ---
 
